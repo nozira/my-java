@@ -7,6 +7,7 @@ class Example3_1{
     System.out.println(30 - 5);
     System.out.println(10 * 30);
     System.out.println(10 / 3);
+    System.out.println(10 % 3);
     System.out.println(10.0 / 3.0);
   }
 }
