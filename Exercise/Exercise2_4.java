@@ -1,4 +1,4 @@
-class Exercise2_3{
+class Exercise2_4{
   public static void main(String[] args) {
     int a = 30;
     double b = 1.59253589;
